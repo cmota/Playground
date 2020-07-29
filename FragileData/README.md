@@ -3,7 +3,9 @@
 > This was originally posted on cafonsomota.xyz
 
 <figure>
-<img src="https://miro.medium.com/max/700/1*MwRkHL4HC4yaFVv5VJzH7g.jpeg" alt="Android features: persist your app data after uninstall cover">
+	<p align="center">
+		<img src="https://miro.medium.com/max/700/1*MwRkHL4HC4yaFVv5VJzH7g.jpeg" alt="Android features: persist your app data after uninstall cover">
+	</p>
 </figure>
 
 I’ve recently noticed that an application was asking me if I wanted to keep my app data after uninstalling it.
@@ -13,10 +15,10 @@ I’ve recently noticed that an application was asking me if I wanted to keep my
 I was unaware of this feature, which was introduced in Android 10, and can be useful for some applications.
 
 <figure>
-<p align="center">
-<img src="https://cdn-images-1.medium.com/max/2000/1*CMXNIws5JbdzNlUZsm3B4g.png" alt="User prompt when uninstalling an app with hasFragileUserData attribute set">
-</p>
-<figcaption>User prompt when uninstalling an app with hasFragileUserData attribute set</figcaption>
+	<p align="center">
+		<img src="https://cdn-images-1.medium.com/max/2000/1*CMXNIws5JbdzNlUZsm3B4g.png" alt="User prompt when uninstalling an app with hasFragileUserData attribute set">
+	</p>
+	<figcaption>User prompt when uninstalling an app with hasFragileUserData attribute set</figcaption>
 </figure>
 
 ### How to implement
